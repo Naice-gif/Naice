@@ -1,0 +1,31 @@
+*{
+    box-sizing:border-box; 
+}
+
+#pic1{
+    display:block;
+    background-size:contain;
+    opacity:1;
+    
+}
+.navs{
+    display:inline;
+    float:left
+}
+.naice-uwitonze{
+    position:absolute;
+    top:50%;
+    left:50%;
+    translate:transform(-50%, -50%);
+}
+.an-inborn-programmer{
+    position:absolute;
+    top:50%;
+    left:50%;
+    translate:transform(-50%, -50%);
+}
+
+
+
+
+
