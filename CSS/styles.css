@@ -2,27 +2,26 @@
     box-sizing:border-box; 
 }
 
-#pic1{
-    display:block;
-    background-size:contain;
-    opacity:1;
-    
-}
-.navs{
+#navs{
     display:inline;
-    float:left
+    float:left;
+    color:black;
 }
 .naice-uwitonze{
     position:absolute;
-    top:50%;
-    left:50%;
+    top: 100px;
+    left: 16px;
     translate:transform(-50%, -50%);
+    font-size:60px;
+    color:black;
 }
 .an-inborn-programmer{
     position:absolute;
-    top:50%;
-    left:50%;
+    top:60%;
+    left:1%;
     translate:transform(-50%, -50%);
+    font-size:60px;
+    color:black;
 }
 
 
