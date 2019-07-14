@@ -47,7 +47,6 @@ color:black;
 }
 
 .second{
-    background-color:;
     height:550px;
     background-size:500px; 
     background-repeat:no-repeat;
@@ -85,7 +84,7 @@ color:black;
 
   .third{
     background-color:#fff;
-    height:700px;
+    height:750px;
     background-size:650px;
     background-repeat:no-repeat;
     
@@ -118,8 +117,18 @@ color:black;
 
   }
   .prop:hover{
-    background:#CCC;
-    visibility:hidden
-    
+    background:white; 
   }
-      
+ 
+  
+  
+  footer{
+    background-color:black;
+    text-align: center;
+    color:white;
+
+  }
+  .col>a{
+    color:white;
+    float: right;
+  }
