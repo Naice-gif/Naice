@@ -56,8 +56,10 @@ color:black;
 
 #about>h3{
     text-align: center;
-    line-height: 5;
+    line-height:3;
     color:black;
+    font-size:40px;
+    font-family: Georgia;
 }
 
 .img{
@@ -113,5 +115,11 @@ color:black;
 .prop{
     flex: 33.33%;
     padding: 50px;
+
+  }
+  .prop:hover{
+    background:#CCC;
+    visibility:hidden
+    
   }
       
